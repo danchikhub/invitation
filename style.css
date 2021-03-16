@@ -27,7 +27,7 @@ p {
     color: #bb9c66;
     font-size: 40px;
 }
-@media (max-width: 450px) {
+@media (max-width: 550px) {
     .bird {
         width: 300px;
         height: auto;
